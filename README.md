@@ -131,4 +131,4 @@ Each script generates its own CSV file containing the extracted data.
 
 **Mohamed Saber**
 
-Data Engineer | Python | Web Scraping | SQL | Power BI
+Data Engineer | Data Analyst
